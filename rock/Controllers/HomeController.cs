@@ -15,7 +15,8 @@ namespace Rocks.Controllers
     [HttpPost("/rock/results")]
     public ActionResult Results()
     {
-      Rocker newRock = new Rocker (Request.Form["inputOne"], Request.Form["inputTwo"]);
+      Rocker newRock = new Rocker (Request.Form["inputOne"]);
+      Random newRandom = new Random();
       return View (newRock);
     }
   }
