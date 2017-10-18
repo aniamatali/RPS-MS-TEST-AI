@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/rock.solutions/rock.tests/bin/Debug/netcoreapp1.1/rock.tests.deps.json
+/Users/Guest/Desktop/rock.solutions/rock.tests/bin/Debug/netcoreapp1.1/rock.tests.runtimeconfig.json
+/Users/Guest/Desktop/rock.solutions/rock.tests/bin/Debug/netcoreapp1.1/rock.tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/rock.solutions/rock.tests/obj/Debug/netcoreapp1.1/rock.tests.AssemblyInfo.cs
+/Users/Guest/Desktop/rock.solutions/rock.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/rock.solutions/rock.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/rock.solutions/rock.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/rock.solutions/rock.tests/bin/Debug/netcoreapp1.1/rock.tests.dll
+/Users/Guest/Desktop/rock.solutions/rock.tests/bin/Debug/netcoreapp1.1/rock.tests.pdb
+/Users/Guest/Desktop/rock.solutions/rock.tests/bin/Debug/netcoreapp1.1/rock.dll
+/Users/Guest/Desktop/rock.solutions/rock.tests/bin/Debug/netcoreapp1.1/rock.pdb
+/Users/Guest/Desktop/rock.solutions/rock.tests/obj/Debug/netcoreapp1.1/rock.tests.dll
+/Users/Guest/Desktop/rock.solutions/rock.tests/obj/Debug/netcoreapp1.1/rock.tests.pdb
